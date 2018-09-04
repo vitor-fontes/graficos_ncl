@@ -1,0 +1,10 @@
+agricultura/*
+cerrado/*
+floresta/*
+pastagem/*
+clean.sh
+domonDrainage.sh
+doyearDrainage.sh
+monthly/*
+struct.sh
+sim_yearly.csv
